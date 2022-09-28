@@ -1,0 +1,57 @@
+body {
+    background-image:url(https://media.giphy.com/media/hsK59iDP8G5QVMMRl7/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+
+    color: white;
+    font-family: 'Helvatica', 'Arial Narrow', Arial, sans-serif; 
+    line-height: 1.6em;
+}
+
+#header-main {
+    text-align: center;
+    color: #F730FB;
+}
+
+/* #E961F2 */
+
+.box-1 {
+    text-align: center;
+    padding-top: 20px;
+}
+#text-color {
+    color: #F731FB;
+}
+
+.join {
+    padding-top: 40px;
+    text-align: center;
+}
+
+.list {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+#discord-color {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #5865F2;
+}
+
+#github-color {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #ffffff;
+}
+
+hr {
+    margin-top: 40px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+#footer-main {
+    text-align: center;
+}
