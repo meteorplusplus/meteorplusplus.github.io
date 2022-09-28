@@ -1,5 +1,5 @@
 body {
-    background-image:url(https://media.giphy.com/media/hsK59iDP8G5QVMMRl7/giphy.gif);
+    background-image:url(https://media.giphy.com/media/eM7NKwQgpfwTAP3bMO/giphy-downsized-large.gif);
     background-size: cover;
     background-attachment: fixed;
 
@@ -37,13 +37,13 @@ body {
 #discord-color {
     padding-left: 10px;
     padding-right: 10px;
-    color: #5865F2;
+    color: ##1013e0;
 }
 
 #github-color {
     padding-left: 10px;
     padding-right: 10px;
-    color: #ffffff;
+    color: ##1013e0;
 }
 
 hr {
